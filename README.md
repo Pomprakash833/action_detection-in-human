@@ -1,4 +1,4 @@
-# action_detection-in-human
+# Action_detection-in-human
 A machine learning project for classifying human actions using classical ML algorithms on structured tabular data.
 
 ## Overview
